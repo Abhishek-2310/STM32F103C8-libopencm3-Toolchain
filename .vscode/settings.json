@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "api-asm.h": "c",
+        "rcc.h": "c"
+    }
+}
