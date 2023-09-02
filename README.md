@@ -20,10 +20,6 @@ you can fix things by running ```git submodule update --init``` (This is only ne
 * my-project contains your application
 * my-common-code contains something shared.
 
-## As a template
-You should replace this with your _own_ README if you are using this
-as a template.
-
 ## Flashing
 ```sh
 st-flash --reset write "project name".bin 0x8000000
